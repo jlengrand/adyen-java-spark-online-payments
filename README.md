@@ -1,5 +1,7 @@
 # [Adyen Checkout](https://docs.adyen.com/checkout) integration demo
 
+**Note: This repository is archived because the Spark framework has been retired**
+
 ## Run this integration in seconds using [Gitpod](https://gitpod.io/)
 
 * Open your [Adyen Test Account](https://ca-test.adyen.com/ca/ca/overview/default.shtml) and create a set of [API keys](https://docs.adyen.com/user-management/how-to-get-the-api-key).
