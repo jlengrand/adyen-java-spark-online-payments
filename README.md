@@ -1,3 +1,5 @@
+**This repository is archived and unmaintained. If you want a Java Sample, have a look at the [Spring example](https://github.com/adyen-examples/adyen-java-spring-online-payments)**. 
+
 # [Adyen Checkout](https://docs.adyen.com/checkout) integration demo
 
 ## Run this integration in seconds using [Gitpod](https://gitpod.io/)
